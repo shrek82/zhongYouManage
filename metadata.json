@@ -1,0 +1,8 @@
+{
+  "name": "众友健康合同管理系统",
+  "description": "为兰州众友健康药业有限公司量身定制的现代化合同管理系统，支持全生命周期管理、AI合同分析及数据可视化。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
